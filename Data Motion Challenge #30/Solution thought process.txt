@@ -1,0 +1,14 @@
+Logic for query 1
+
+-- Subquery to count all posted tweets by user and date
+-- Calculate rolling average of tweets for each user using a window function - partition by
+
+
+Logic for query 2
+
+-- Select the city column from the users table and the total count of orders with the status of 'Completed'
+-- Left join the trades table on the user_id column
+-- Filter the trades to only include those with a status of 'Completed'
+-- Group the results by the city
+-- Order the results by the total count of orders in descending order
+-- Limit the output to the top 3 results

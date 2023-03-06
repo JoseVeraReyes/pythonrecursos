@@ -35,3 +35,7 @@ Explanation
 User 111 made 2 tweets on 06/01/2022, and 1 tweet the next day. By 06/02/2022, the user had made in total 3 tweets over the course of 2 days; thus, the rolling average is 3/2=1.5. By 06/04/2022, there are 4 tweets that were made during 3 days: 4/3 = 1.33 rolling average.
 
 The dataset you are querying against may have different input & output - this is just an example!
+
+
+![Data lotion week ](https://user-images.githubusercontent.com/22597020/223120867-db6f426d-90bc-46c2-b535-d3f6363748fa.jpg)
+

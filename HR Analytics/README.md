@@ -3,7 +3,7 @@
     
         The following data preprocessing was carried out for the data in this analysis: 
     
-    ![JOINS(4)](https://user-images.githubusercontent.com/22597020/225596312-db4d2431-8906-4477-8724-4751d29d02df.png)
+   ![JOINS(4)](https://user-images.githubusercontent.com/22597020/225596312-db4d2431-8906-4477-8724-4751d29d02df.png)
 
 
         

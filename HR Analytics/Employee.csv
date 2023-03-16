@@ -1,0 +1,250 @@
+employee_id,department,sub-department,first_level_manager,second_level_manager,third_level_manager,job_level,gender,race,age,education,location,location_city,marital_status,employment_status,salary,hire_date,term_date,tenure,term_type,term_reason,active_status,Staff Rating
+7028929032,HR,Recruiting,5662654509,7995036334,0,Team Lead,Male,Caucasian,32,Bachelor's degree,Remote,San Diego,Single,Full Time,83016,21/03/2014,21/03/2016,24,Voluntary,Found a better opportunity,0,3
+647480349,Software,QA,5967018752,14845113,0,Team Lead,Female,Caucasian,20,Bachelor's degree,Remote,Charlotte,Single,Full Time,94905,01/09/2017,08/06/2019,22,Voluntary,Personal reasons,0,3
+1521059108,Legal,Intellectual Property,906213508,9825402532,0,Team Lead,Male,Caucasian,34,Bachelor's degree,On-site,Los Angeles,Married,Full Time,94711,03/02/2015,14/02/2017,25,Voluntary,Personal reasons,0,3
+9198124861,Software,Software Development,298249457,2724221678,0,Team Lead,Female,Caucasian,31,Bachelor's degree,Remote,Philadelphia,Single,Full Time,98906,26/06/2019,20/04/2021,22,Voluntary,Relocation,0,4
+80891509,HR,Recruiting,6568092008,6032514284,0,Team Lead,Male,Caucasian,64,Bachelor's degree,Remote,San Antonio,Married,Full Time,91998,25/09/2020,05/08/2021,10,Voluntary,Found a better opportunity,0,2
+7872201278,HR,Training,1351088207,6814563713,0,Team Lead,Female,Caucasian,33,Bachelor's degree,Remote,San Francisco,Married,Full Time,71939,07/07/2016,22/07/2018,25,Voluntary,More flexible benefits,0,5
+2996830686,Product Development,Product Marketing,7680379570,2425229769,0,Team Lead,Female,Caucasian,26,Bachelor's degree,On-site,San Francisco,Single,Full Time,78429,22/12/2013,21/12/2015,24,Voluntary,Better salary,0,2
+5416412823,Sales,Sales Operations,1121234348,2262528572,0,Team Lead,Male,Caucasian,24,Bachelor's degree,Remote,Houston,Single,Full Time,95405,23/06/2016,01/07/2018,25,Voluntary,More flexible benefits,0,2
+2071044526,Sales,Business Development,3631165461,5895467214,0,Team Lead,Male,Caucasian,39,Bachelor's degree,Remote,Indianapolis,Single,Full Time,78074,05/04/2018,10/02/2020,23,Voluntary,More flexible benefits,0,5
+6157496139,Administration,Executive Assistants,2237127542,8857691489,0,Team Lead,Female,Caucasian,38,Bachelor's degree,Remote,Boston,Single,Full Time,86507,10/01/2016,12/01/2018,24,Voluntary,Better salary,0,5
+8568701269,Sales,Sales Operations,6833874778,3868375509,0,Team Lead,Male,Caucasian,38,Bachelor's degree,Remote,Seattle,Single,Full Time,77638,02/03/2019,31/01/2020,11,Voluntary,Found a better opportunity,0,4
+5845683606,Finance,Accounting,4796861829,9912059236,0,Team Lead,Male,Caucasian,40,Bachelor's degree,Remote,San Francisco,Single,Full Time,78288,03/12/2016,19/10/2017,11,Voluntary,Better salary,0,2
+5658701781,Sales,Business Development,1163337328,3868375509,0,Team Lead,Male,Caucasian,23,Bachelor's degree,On-site,San Francisco,Single,Full Time,71858,11/01/2020,03/09/2020,8,Voluntary,More flexible benefits,0,5
+7006025943,HR,Recruiting,3449179712,776978900,0,Team Lead,Female,Caucasian,38,Bachelor's degree,Remote,Chicago,Single,Full Time,84195,18/06/2017,30/03/2019,22,Voluntary,Relocation,0,1
+9762071587,Customer Service,Customer Support,9296968762,3287697715,0,Team Lead,Female,Caucasian,43,Bachelor's degree,Remote,Fort Worth,Single,Full Time,81361,02/06/2012,13/06/2014,25,Voluntary,Found a better opportunity,0,2
+242452912,Software,Software Development,715843816,5539617772,0,Team Lead,Female,Caucasian,37,Bachelor's degree,Remote,Phoenix,Single,Full Time,88209,18/03/2014,15/01/2016,22,Voluntary,Found a better opportunity,0,4
+8572726856,Operations,Supply Chain,764271795,4189721097,0,Team Lead,Male,Caucasian,40,Bachelor's degree,Remote,Charlotte,Married,Full Time,92055,27/09/2013,28/09/2015,24,Voluntary,Better salary,0,4
+5851990482,Marketing,Public Relations,8829142252,9339673820,0,Team Lead,Female,Caucasian,37,Bachelor's degree,On-site,San Francisco,Single,Full Time,105403,25/08/2020,16/12/2020,4,Voluntary,Better salary,0,2
+7506549475,Sales,Sales Operations,2118406378,9072730468,0,Team Lead,Female,Caucasian,36,Bachelor's degree,Remote,Washington DC,Single,Full Time,76012,21/09/2019,20/09/2021,24,Voluntary,Found a better opportunity,0,2
+4147056008,Finance,Accounting,2452767308,9912059236,0,Team Lead,Female,Caucasian,47,Bachelor's degree,Remote,Columbus,Married,Full Time,100192,18/09/2015,24/08/2017,24,Voluntary,Better salary,0,3
+8436202802,Administration,Facilities,2665438652,4191660438,0,Team Lead,Female,Caucasian,28,Bachelor's degree,On-site,Los Angeles,Single,Full Time,79940,04/08/2019,21/07/2021,24,Voluntary,Found a better opportunity,0,2
+5216600642,Product Development,Product Management,9494917590,1972314523,0,Team Lead,Male,Caucasian,42,Bachelor's degree,Remote,Austin,Single,Full Time,99051,23/02/2017,24/03/2021,50,Voluntary,Relocation,0,5
+7356385841,Administration,Facilities,1690091066,5934410378,0,Team Lead,Male,Caucasian,38,Bachelor's degree,Remote,Charlotte,Single,Full Time,69669,12/10/2021,05/12/2021,2,Voluntary,Found a better opportunity,0,5
+350527815,Finance,Financial Planning,432874762,4820449671,0,Team Lead,Male,Caucasian,43,Bachelor's degree,Remote,Houston,Single,Full Time,105228,25/02/2016,25/03/2018,25,Voluntary,Found a better opportunity,0,3
+6387609997,HR,Training,2120480847,2509046989,0,Team Lead,Female,Caucasian,39,Bachelor's degree,Remote,San Francisco,Single,Full Time,87808,27/10/2020,11/12/2020,2,Voluntary,Found a better opportunity,0,5
+6010302867,Sales,Sales Operations,3643792706,9251726849,0,Team Lead,Female,Caucasian,57,Bachelor's degree,Remote,Houston,Married,Full Time,72613,03/10/2015,02/10/2016,12,Voluntary,More flexible benefits,0,2
+2992639997,Software,Technical Support,7726329727,5203583382,0,Team Lead,Female,Caucasian,61,Bachelor's degree,Remote,San Diego,Married,Full Time,118527,28/06/2020,08/05/2021,10,Voluntary,Found a better opportunity,0,3
+2683117385,HR,Recruiting,3827401041,8645953426,0,Team Lead,Female,Caucasian,23,Bachelor's degree,Remote,Washington DC,Single,Full Time,67811,23/01/2016,23/01/2017,12,Voluntary,More flexible benefits,0,4
+7207821930,R&D,Product Design,2722098794,7489616387,0,Team Lead,Female,Caucasian,39,Bachelor's degree,Remote,Columbus,Single,Full Time,111141,02/07/2020,06/09/2020,2,Voluntary,Found a better opportunity,0,4
+7559543255,Administration,Executive Assistants,2665438652,8857691489,0,Team Lead,Male,Caucasian,29,Bachelor's degree,Remote,San Diego,Single,Full Time,83919,27/01/2014,09/01/2016,24,Voluntary,Found a better opportunity,0,4
+6587365504,Sales,Account Management,9161027626,6852381413,0,Team Lead,Male,Caucasian,23,Bachelor's degree,Remote,Houston,Single,Full Time,74871,03/07/2019,28/04/2020,10,Voluntary,Found a better opportunity,0,2
+7942216771,Sales,Business Development,3416478736,3433312920,0,Team Lead,Male,Caucasian,35,Bachelor's degree,Remote,Chicago,Single,Full Time,98898,08/06/2019,29/04/2021,23,Voluntary,Found a better opportunity,0,4
+9349883036,Sales,Account Management,3133341668,9251726849,0,Team Lead,Female,Caucasian,38,Bachelor's degree,Remote,Austin,Single,Full Time,96652,17/09/2012,03/10/2014,25,Voluntary,Found a better opportunity,0,4
+3608165913,Customer Service,Customer Support,9725115550,8780882161,0,Team Lead,Female,Caucasian,25,Bachelor's degree,Remote,San Jose,Single,Full Time,69228,11/11/2012,15/10/2014,23,Voluntary,More flexible benefits,0,4
+5278034858,R&D,Product Design,1958667614,9759719470,0,Team Lead,Male,Caucasian,23,Bachelor's degree,Remote,Columbus,Married,Full Time,99674,25/07/2020,02/05/2021,9,Voluntary,Found a better opportunity,0,5
+6198636901,R&D,Research,7180951602,5849401328,0,Team Lead,Female,Caucasian,35,Bachelor's degree,On-site,Los Angeles,Married,Full Time,77748,12/05/2014,04/04/2016,23,Voluntary,Personal reasons,0,4
+8571722018,Software,Software Development,715843816,2865338159,0,Team Lead,Female,Caucasian,43,Bachelor's degree,Remote,Phoenix,Married,Full Time,101304,15/07/2020,10/06/2021,11,Voluntary,Relocation,0,2
+5160345165,Legal,Corporate Law,6534407104,3229784704,0,Team Lead,Male,Caucasian,62,Bachelor's degree,Remote,Austin,Married,Full Time,117887,21/03/2017,26/01/2019,23,Voluntary,Better salary,0,5
+9162418562,Customer Service,Technical Support,4367039525,8519877319,0,Team Lead,Male,Caucasian,24,Bachelor's degree,Remote,Washington DC,Single,Full Time,85926,19/12/2014,21/09/2016,21,Voluntary,Better salary,0,4
+4277339964,Operations,Supply Chain,2196167446,6841245333,0,Team Lead,Male,Caucasian,38,Bachelor's degree,Remote,San Jose,Married,Full Time,87949,19/08/2014,28/06/2015,10,Voluntary,Relocation,0,5
+252979459,Software,Technical Support,2740827756,2865338159,0,Team Lead,Female,Caucasian,21,Bachelor's degree,Remote,Denver,Single,Full Time,84654,18/05/2013,20/04/2015,23,Voluntary,Found a better opportunity,0,4
+8782320273,Marketing,Public Relations,1420080265,4859371272,0,Team Lead,Male,Caucasian,40,Bachelor's degree,Remote,Boston,Married,Full Time,77571,26/12/2016,10/11/2017,11,Voluntary,More flexible benefits,0,4
+3490085774,Procurement,Vendor Management,4339713774,2796318879,0,Team Lead,Female,Caucasian,37,Bachelor's degree,On-site,Dallas,Married,Full Time,73763,25/10/2012,27/07/2014,21,Voluntary,Career change,0,2
+3218550097,Finance,Financial Planning,2790746695,7250449451,0,Team Lead,Female,Caucasian,23,Bachelor's degree,Remote,Jacksonville,Single,Full Time,96526,19/05/2021,12/07/2021,2,Voluntary,Better salary,0,2
+5717690210,Sales,Sales Operations,2833600446,5895467214,0,Team Lead,Male,Caucasian,30,Bachelor's degree,Remote,Austin,Single,Full Time,100399,10/12/2020,18/11/2021,11,Voluntary,Better salary,0,2
+3419960190,Finance,Auditing,2769224680,588611735,0,Team Lead,Female,Caucasian,36,Bachelor's degree,Remote,Indianapolis,Single,Full Time,72836,21/11/2019,04/11/2020,12,Voluntary,Found a better opportunity,0,2
+8054207288,Marketing,Public Relations,7514358340,5437575890,0,Team Lead,Female,Caucasian,26,Bachelor's degree,On-site,Dallas,Single,Full Time,104127,29/09/2013,17/10/2015,25,Voluntary,Better salary,0,2
+7001793299,Product Development,Project Management,6900650485,5232812171,0,Team Lead,Male,Caucasian,30,Bachelor's degree,Remote,New York,Single,Full Time,94446,21/04/2014,29/04/2015,12,Voluntary,More flexible benefits,0,1
+3813597332,Software,Technical Support,1383108606,2820765709,0,Team Lead,Female,Caucasian,24,Bachelor's degree,Remote,Houston,Single,Full Time,116211,07/09/2021,02/11/2021,2,Voluntary,Found a better opportunity,0,4
+6478988847,Software,QA,447143497,5203583382,0,Team Lead,Male,Caucasian,21,Bachelor's degree,Remote,Phoenix,Single,Full Time,102640,03/11/2017,19/08/2020,34,Voluntary,Found a better opportunity,0,3
+5817871167,HR,Benefits,2470074702,7040762887,0,Team Lead,Male,Caucasian,38,Bachelor's degree,Remote,Chicago,Single,Full Time,81859,24/02/2021,26/03/2021,1,Voluntary,Found a better opportunity,0,3
+530194768,Operations,Project Management,3659150070,2891488321,0,Team Lead,Female,Caucasian,37,Bachelor's degree,Remote,San Diego,Single,Full Time,91071,27/03/2016,10/01/2018,22,Voluntary,Better salary,0,3
+7973115798,Finance,Accounting,622138401,9912059236,0,Team Lead,Male,Caucasian,33,Bachelor's degree,Remote,Denver,Married,Full Time,81886,11/06/2020,07/08/2020,2,Voluntary,Relocation,0,4
+1953375230,R&D,Prototyping,1249003626,7489616387,0,Team Lead,Female,Caucasian,40,Bachelor's degree,Remote,San Francisco,Single,Full Time,80848,02/09/2013,24/06/2015,22,Voluntary,Found a better opportunity,0,5
+1446497753,Legal,Intellectual Property,2018439798,9825402532,0,Team Lead,Female,Caucasian,26,Bachelor's degree,Remote,Austin,Single,Full Time,103002,06/06/2015,06/05/2016,11,Voluntary,Better salary,0,1
+2014736159,HR,Benefits,5639488008,776978900,0,Team Lead,Male,Caucasian,60,Bachelor's degree,Remote,Chicago,Married,Full Time,70233,17/02/2013,24/11/2013,9,Voluntary,Found a better opportunity,0,5
+3210362498,Administration,Travel,93666919,2400560585,0,Team Lead,Male,Caucasian,33,Bachelor's degree,On-site,Los Angeles,Single,Full Time,83127,26/09/2015,01/08/2016,10,Voluntary,Better salary,0,3
+3540729434,Software,QA,442781479,3048449241,0,Team Lead,Male,Caucasian,54,Bachelor's degree,Remote,Houston,Married,Full Time,81640,04/10/2019,01/08/2020,10,Voluntary,Relocation,0,2
+9689272881,Sales,Sales Operations,8325975653,2262528572,0,Team Lead,Male,Caucasian,33,Bachelor's degree,Remote,San Diego,Single,Full Time,88271,19/11/2021,23/01/2022,2,Voluntary,Found a better opportunity,0,2
+8283163368,Sales,Sales Operations,845949266,9072730468,0,Team Lead,Male,Caucasian,29,Bachelor's degree,On-site,Los Angeles,Single,Full Time,89627,04/10/2013,02/09/2015,23,Voluntary,Better salary,0,1
+4904520116,Software,QA,3236303647,9734132771,0,Team Lead,Male,Caucasian,44,Bachelor's degree,Remote,Chicago,Single,Full Time,87807,16/04/2013,06/03/2015,23,Voluntary,Found a better opportunity,0,5
+9863609553,Software,Technical Support,8788675910,3393860506,0,Team Lead,Female,Caucasian,36,Bachelor's degree,Remote,New York,Single,Full Time,103357,11/09/2019,09/08/2020,11,Voluntary,Found a better opportunity,0,4
+5595174297,Software,QA,1115260710,9734132771,0,Team Lead,Male,Caucasian,28,Bachelor's degree,Remote,Fort Worth,Married,Full Time,99485,05/01/2021,08/03/2021,2,Voluntary,Better salary,0,5
+332207921,Finance,Financial Planning,110290553,3197062390,0,Team Lead,Male,Caucasian,37,Bachelor's degree,Remote,Seattle,Single,Full Time,100690,05/10/2012,03/08/2014,22,Voluntary,Found a better opportunity,0,3
+5865192887,Software,QA,5490182095,3048449241,0,Team Lead,Female,Caucasian,30,Bachelor's degree,On-site,Los Angeles,Married,Full Time,105802,15/10/2018,13/10/2019,12,Voluntary,Found a better opportunity,0,2
+4446351416,Finance,Financial Planning,432874762,3197062390,0,Team Lead,Female,Caucasian,38,Bachelor's degree,Remote,Fort Worth,Single,Full Time,79848,06/08/2014,12/08/2015,12,Voluntary,Better salary,0,5
+7127214908,Marketing,Advertising,2563102154,2991764088,0,Team Lead,Female,Caucasian,40,Bachelor's degree,Remote,Houston,Single,Full Time,92034,22/08/2016,11/06/2018,22,Voluntary,Found a better opportunity,0,5
+3817327256,Operations,Supply Chain,676375884,5755162194,0,Team Lead,Male,Caucasian,37,Bachelor's degree,On-site,San Francisco,Single,Full Time,72696,12/06/2014,20/03/2016,22,Voluntary,More flexible benefits,0,2
+7691757256,R&D,Research,2905358479,7489616387,0,Team Lead,Male,Caucasian,30,Bachelor's degree,Remote,Fort Worth,Single,Contract,77493,09/10/2020,30/11/2020,2,Voluntary,Better salary,0,5
+499029142,Operations,Project Management,676375884,6480676187,0,Team Lead,Female,Caucasian,25,Master's degree,Remote,Indianapolis,Single,Full Time,76584,07/12/2021,23/01/2022,2,Voluntary,More flexible benefits,0,4
+6572115771,Product Development,Project Management,1517121064,1277352617,0,Team Lead,Female,Caucasian,33,Master's degree,On-site,Los Angeles,Single,Full Time,81740,04/01/2019,07/10/2020,21,Voluntary,More flexible benefits,0,3
+3828294758,Software,QA,4166259554,2724221678,0,Team Lead,Male,Caucasian,34,Master's degree,Remote,Boston,Single,Full Time,95859,17/09/2017,21/06/2018,9,Voluntary,Better salary,0,2
+4691002076,HR,Recruiting,3449179712,3438125557,0,Team Lead,Male,Caucasian,34,Master's degree,Remote,Houston,Single,Full Time,80487,18/05/2016,15/05/2021,61,Voluntary,Career change,0,2
+8033947467,Software,Software Development,895741303,9734132771,0,Team Lead,Male,Caucasian,36,Master's degree,Remote,Austin,Single,Full Time,84449,13/08/2013,13/08/2014,12,Voluntary,Better salary,0,4
+109068194,Customer Service,Technical Support,9725115550,6108726979,0,Team Lead,Female,Caucasian,36,Master's degree,Remote,San Francisco,Single,Full Time,61143,28/01/2016,09/12/2017,23,Voluntary,Personal reasons,0,3
+5518093946,Procurement,Vendor Management,8983945718,5427032276,0,Team Lead,Male,Caucasian,25,Master's degree,On-site,San Francisco,Single,Full Time,59889,30/06/2020,16/06/2021,12,Voluntary,Better salary,0,2
+6026705504,R&D,Research,7182803733,7489616387,0,Team Lead,Male,Caucasian,39,Master's degree,Remote,Seattle,Single,Full Time,93395,25/02/2013,03/03/2015,25,Voluntary,Better salary,0,4
+9525839184,Marketing,Public Relations,2255929048,2991764088,0,Team Lead,Female,Caucasian,32,Master's degree,Remote,Fort Worth,Married,Full Time,100681,03/07/2018,29/05/2020,23,Voluntary,More flexible benefits,0,4
+5406393936,Sales,Account Management,2333229595,2342423041,0,Team Lead,Male,Caucasian,23,Master's degree,On-site,San Francisco,Single,Full Time,99488,01/01/2020,23/04/2020,4,Voluntary,More flexible benefits,0,2
+2349051992,Marketing,Public Relations,6909331537,7865133164,0,Team Lead,Female,Caucasian,27,Master's degree,On-site,Los Angeles,Married,Full Time,85896,19/01/2019,08/02/2021,25,Voluntary,Found a better opportunity,0,4
+4681486299,Finance,Auditing,7850564251,9456183075,0,Team Lead,Female,Caucasian,39,Associate's degree,Remote,Denver,Single,Full Time,97130,08/03/2019,09/02/2020,11,Voluntary,Found a better opportunity,0,5
+4999328097,HR,Recruiting,2412885866,776978900,0,Team Lead,Male,Caucasian,24,Associate's degree,Remote,Houston,Single,Full Time,90403,10/05/2014,19/03/2015,10,Voluntary,Relocation,0,4
+7282145517,Procurement,Supply Chain,4241166081,2796318879,0,Team Lead,Male,Caucasian,31,Master's degree,Remote,Indianapolis,Single,Full Time,77605,05/02/2017,01/01/2018,11,Voluntary,More flexible benefits,0,2
+7310645110,HR,Training,5639488008,5884235056,0,Team Lead,Male,Caucasian,29,Associate's degree,Remote,San Francisco,Single,Full Time,88751,01/09/2021,30/10/2021,2,Voluntary,Found a better opportunity,0,1
+10457301,Marketing,Marketing Research,6380679243,7865133164,0,Team Lead,Male,Caucasian,20,Master's degree,Remote,Phoenix,Married,Full Time,103671,07/01/2017,06/11/2017,10,Voluntary,Better salary,0,3
+6333594009,Software,Software Development,715843816,5044714263,0,Team Lead,Female,Caucasian,27,None,Remote,San Antonio,Single,Full Time,91363,09/04/2016,21/02/2017,11,Voluntary,More flexible benefits,0,3
+6358540901,Finance,Financial Planning,110290553,9912059236,0,Team Lead,Male,Caucasian,30,Master's degree,Remote,Denver,Single,Full Time,104512,10/05/2012,24/03/2013,11,Voluntary,Better salary,0,1
+9464537549,Finance,Accounting,7850564251,4820449671,0,Team Lead,Male,Caucasian,38,Master's degree,Remote,Washington DC,Single,Full Time,92427,07/06/2019,01/05/2020,11,Voluntary,Better salary,0,1
+5634264948,Software,QA,7823522698,3048449241,0,Team Lead,Female,Caucasian,35,None,Remote,San Jose,Single,Full Time,83595,13/07/2012,19/07/2013,12,Voluntary,More flexible benefits,0,2
+3043710383,Finance,Financial Planning,2069852688,7250449451,0,Team Lead,Female,Caucasian,39,Bachelor's degree,On-site,Los Angeles,Single,Full Time,93167,09/07/2015,20/06/2016,12,Involuntary,Performance,0,3
+9949285443,Software,Software Development,5967018752,5539617772,0,Team Lead,Female,Caucasian,30,None,Remote,Chicago,Single,Full Time,117273,27/05/2015,28/03/2017,22,Involuntary,Performance,0,1
+8901367518,Product Development,Project Management,1517121064,1277352617,0,Team Lead,Female,Caucasian,35,Bachelor's degree,Remote,Austin,Single,Full Time,96011,17/01/2021,04/02/2021,1,Involuntary,Performance,0,1
+4885853668,Operations,Project Management,5395563831,663543865,0,Team Lead,Female,Caucasian,37,Bachelor's degree,Remote,San Francisco,Single,Full Time,92001,20/01/2021,20/02/2021,1,Involuntary,Performance,0,2
+4591007776,Customer Service,Customer Support,2342653716,6680584136,0,Team Lead,Female,Caucasian,32,Master's degree,Remote,Indianapolis,Single,Full Time,82198,13/10/2018,29/08/2020,23,Involuntary,Performance,0,3
+3030987993,Software,Software Development,1623022597,9734132771,0,Team Lead,Female,Caucasian,35,Bachelor's degree,Remote,Columbus,Single,Full Time,88410,30/03/2020,06/04/2021,12,Involuntary,Performance,0,4
+6648452991,Marketing,Advertising,87490516,5276190212,0,Team Lead,Male,Caucasian,43,Bachelor's degree,Remote,Philadelphia,Single,Full Time,92260,22/10/2017,23/08/2019,22,Involuntary,Performance,0,3
+9884345349,Sales,Account Management,4555902484,6852381413,0,Team Lead,Female,Caucasian,23,Associate's degree,Remote,Indianapolis,Single,Full Time,74670,30/08/2012,11/09/2014,25,Involuntary,Performance,0,3
+5082153046,Finance,Auditing,2114300538,9456183075,0,Team Lead,Female,Caucasian,23,Bachelor's degree,On-site,Los Angeles,Single,Full Time,77492,26/11/2017,12/12/2018,13,Involuntary,Performance,0,3
+1979488334,Software,Software Development,8365031881,9734132771,0,Team Lead,Male,Caucasian,21,Bachelor's degree,Remote,New York,Single,Full Time,113768,08/01/2016,01/12/2017,23,Involuntary,Budget cuts,0,2
+5712958099,Administration,Executive Assistants,2237127542,8857691489,0,Team Lead,Male,Caucasian,26,Bachelor's degree,Remote,Fort Worth,Single,Full Time,62688,05/03/2017,15/12/2017,10,Involuntary,Performance,0,2
+6580143145,HR,Recruiting,5639488008,6032514284,0,Team Lead,Male,Caucasian,25,Associate's degree,Remote,San Francisco,Married,Full Time,90970,25/04/2017,04/03/2019,23,Involuntary,Performance,0,2
+9916900378,Sales,Sales Operations,195855522,2262528572,0,Team Lead,Male,Caucasian,35,Bachelor's degree,Remote,Indianapolis,Single,Full Time,79571,20/04/2013,04/04/2019,72,Involuntary,Budget cuts,0,3
+1097234161,Marketing,Public Relations,9784121313,1912934899,0,Team Lead,Female,Caucasian,24,Master's degree,Remote,Indianapolis,Single,Full Time,98348,28/10/2015,31/08/2016,10,Involuntary,Company restructuring,0,4
+2475711801,Marketing,Advertising,7660401230,2991764088,0,Team Lead,Female,Caucasian,25,Bachelor's degree,On-site,San Francisco,Single,Full Time,97282,10/05/2020,22/06/2020,1,Involuntary,Termination for cause,0,3
+2209929785,Operations,Logistics,8488924580,2891488321,0,Team Lead,Male,Caucasian,62,Bachelor's degree,Remote,San Jose,Married,Full Time,81247,11/03/2015,03/02/2017,23,Involuntary,Performance,0,4
+8198369236,HR,Recruiting,6539526594,776978900,0,Team Lead,Female,Caucasian,28,Master's degree,Remote,Jacksonville,Single,Full Time,69036,06/04/2021,23/05/2021,2,Involuntary,Company restructuring,0,4
+7767447581,Sales,Sales Operations,1121234348,392314791,0,Team Lead,Male,Caucasian,36,Bachelor's degree,Remote,Austin,Single,Full Time,81929,29/04/2012,06/05/2014,25,Involuntary,Performance,0,4
+3421390917,Legal,Corporate Law,5706541994,6302945739,0,Team Lead,Female,Caucasian,28,Bachelor's degree,Remote,Denver,Married,Full Time,98863,18/08/2016,25/05/2018,22,Involuntary,Performance,0,3
+7705948711,HR,Benefits,6291425076,7133405098,0,Team Lead,Female,Caucasian,45,Bachelor's degree,Remote,San Jose,Married,Full Time,74362,30/10/2014,10/09/2016,23,Involuntary,Company restructuring,0,3
+6138047098,Sales,Account Management,2833600446,4357170705,0,Team Lead,Male,Caucasian,46,Master's degree,Remote,Charlotte,Married,Full Time,72083,29/08/2020,11/06/2021,10,Involuntary,Budget cuts,0,5
+8543331500,Finance,Accounting,7814216928,588611735,0,Team Lead,Male,Caucasian,36,Bachelor's degree,Remote,San Francisco,Single,Full Time,97434,31/05/2019,30/01/2021,20,Involuntary,Performance,0,5
+8192742119,Software,QA,3626189330,3278616831,0,Team Lead,Male,Native American,35,Bachelor's degree,Remote,Philadelphia,Single,Full Time,87428,21/12/2016,03/12/2018,24,Voluntary,Personal reasons,0,3
+5582242563,Administration,Executive Assistants,8787345215,5934410378,0,Team Lead,Male,Asian,25,Bachelor's degree,On-site,Los Angeles,Single,Full Time,86291,11/02/2018,15/02/2020,24,Voluntary,More flexible benefits,0,2
+8682431604,Product Development,Product Management,1546741504,2425229769,0,Team Lead,Female,Asian,38,Bachelor's degree,Remote,Washington DC,Single,Full Time,80581,09/02/2018,15/12/2018,10,Voluntary,More flexible benefits,0,3
+1593698508,Legal,Litigation,826386558,3229784704,0,Team Lead,Female,Hispanic,34,Bachelor's degree,Remote,San Jose,Married,Full Time,78689,11/10/2016,15/08/2018,22,Voluntary,Found a better opportunity,0,2
+4616498016,Operations,Logistics,5784369778,6841245333,0,Team Lead,Female,African American,30,Bachelor's degree,Remote,Columbus,Single,Full Time,55683,05/01/2014,13/12/2018,60,Voluntary,Found a better opportunity,0,4
+9163304716,R&D,Product Design,1958667614,4188423400,0,Team Lead,Male,Native American,35,Bachelor's degree,Remote,Jacksonville,Single,Full Time,88122,06/07/2013,27/05/2015,23,Voluntary,Career change,0,4
+7425974603,Software,Technical Support,3888214787,3278616831,0,Team Lead,Female,Asian,30,Master's degree,Remote,Charlotte,Single,Full Time,118156,06/02/2017,31/01/2019,24,Voluntary,More flexible benefits,0,4
+1983304762,Sales,Sales Operations,1121234348,2342423041,0,Team Lead,Female,Other,38,Bachelor's degree,Remote,Philadelphia,Married,Full Time,66629,01/08/2012,27/07/2013,12,Voluntary,Found a better opportunity,0,2
+867640289,Operations,Logistics,6057053727,6841245333,0,Team Lead,Female,African American,26,Bachelor's degree,Remote,Dallas,Married,Full Time,76027,27/07/2015,20/06/2017,23,Voluntary,More flexible benefits,0,4
+2504072214,Sales,Sales Operations,2520981097,4357170705,0,Team Lead,Female,Asian,51,Master's degree,Remote,Houston,Married,Full Time,99991,18/02/2019,26/02/2020,12,Voluntary,Better salary,0,4
+1665822015,Finance,Accounting,432874762,7250449451,0,Team Lead,Female,Asian,40,None,Remote,Boston,Married,Full Time,107619,11/01/2017,27/11/2017,11,Voluntary,More flexible benefits,0,2
+6577467646,Marketing,Marketing Research,9656105022,594359533,0,Team Lead,Male,Asian,30,Master's degree,Remote,Austin,Single,Full Time,76586,01/05/2015,23/05/2016,13,Voluntary,Found a better opportunity,0,5
+5315434835,Legal,Corporate Law,3098458468,6302945739,0,Team Lead,Female,African American,42,Bachelor's degree,Remote,Indianapolis,Married,Full Time,99110,23/11/2016,29/11/2018,25,Voluntary,Better salary,0,4
+1003282325,Sales,Sales Operations,8067939740,392314791,0,Team Lead,Female,Native American,34,Bachelor's degree,On-site,Dallas,Married,Full Time,87666,22/05/2013,06/04/2014,11,Voluntary,Found a better opportunity,0,3
+6936774369,HR,Training,2412885866,7040762887,0,Team Lead,Female,African American,38,Master's degree,Remote,Philadelphia,Single,Full Time,72691,30/03/2014,17/01/2016,22,Voluntary,More flexible benefits,0,1
+522675842,Finance,Financial Planning,767596342,3197062390,0,Team Lead,Female,Asian,34,Master's degree,Remote,Philadelphia,Single,Full Time,101853,10/08/2020,09/06/2021,10,Voluntary,Career change,0,4
+4924951006,HR,Benefits,2470074702,2509046989,0,Team Lead,Male,Hispanic,30,Bachelor's degree,On-site,San Francisco,Single,Contract,58405,02/01/2014,04/02/2015,13,Voluntary,Career change,0,5
+5527124045,Product Development,Product Management,8000299680,296297700,0,Team Lead,Female,Asian,36,Bachelor's degree,Remote,San Antonio,Single,Full Time,79289,19/05/2016,08/04/2018,23,Voluntary,More flexible benefits,0,5
+9739164207,R&D,Product Design,3788777976,5849401328,0,Team Lead,Female,Asian,38,Master's degree,On-site,Los Angeles,Single,Full Time,110722,19/06/2015,17/04/2016,10,Involuntary,Performance,0,2
+7633995368,Marketing,Marketing Research,8818320486,5276190212,0,Team Lead,Male,Asian,38,Bachelor's degree,Remote,San Francisco,Single,Full Time,74636,03/03/2013,17/03/2014,13,Involuntary,Performance,0,4
+4145223415,Operations,Supply Chain,3984811051,4189721097,0,Team Lead,Female,Hispanic,31,Bachelor's degree,Remote,Washington DC,Single,Full Time,78916,17/08/2018,15/07/2019,11,Voluntary,Better salary,0,4
+1442636144,Product Development,Product Management,9226371429,2425229769,0,Team Lead,Female,Asian,32,Bachelor's degree,Remote,Houston,Single,Full Time,112732,21/12/2017,28/10/2019,23,Voluntary,Better salary,0,1
+7590756724,Software,Software Development,8788675910,9734132771,0,Team Lead,Male,Asian,33,Bachelor's degree,Remote,Fort Worth,Single,Full Time,113980,18/06/2021,28/07/2021,1,Voluntary,Better salary,0,1
+7939016257,Sales,Sales Operations,1088698099,2262528572,0,Team Lead,Male,Native American,27,Bachelor's degree,Remote,San Francisco,Single,Full Time,89209,19/12/2020,20/02/2021,2,Voluntary,More flexible benefits,0,4
+8734218700,Legal,Corporate Law,2000857542,9185279819,0,Team Lead,Male,Asian,32,Bachelor's degree,Remote,New York,Married,Full Time,114349,22/10/2017,23/08/2019,22,Voluntary,More flexible benefits,0,2
+6624710509,Customer Service,Account Management,8743432298,3287697715,0,Team Lead,Female,Hispanic,39,Bachelor's degree,Remote,Charlotte,Single,Full Time,67914,30/01/2017,28/12/2018,23,Voluntary,More flexible benefits,0,5
+5406335464,Sales,Sales Operations,3433312920,0,0,Manager,Male,Asian,23,Master's degree,Remote,Dallas,Single,Full Time,103412,07/12/2017,22/09/2019,22,Voluntary,Career change,0,3
+2842570797,HR,Training,6032514284,0,0,Manager,Male,Asian,33,Bachelor's degree,On-site,Dallas,Single,Full Time,98106,07/11/2019,27/08/2020,10,Involuntary,Company restructuring,0,4
+9525312984,Marketing,Advertising,0,0,0,Director,Male,Asian,32,Bachelor's degree,Remote,Phoenix,Single,Full Time,97774,14/04/2019,09/03/2021,23,Voluntary,Better salary,0,3
+8523222960,Operations,Project Management,0,0,0,Director,Male,Asian,43,Master's degree,Remote,Austin,Single,Full Time,119016,13/02/2018,08/03/2019,13,Voluntary,Found a better opportunity,0,2
+193868951,Operations,Project Management,6841245333,0,0,Manager,Female,Other,26,Bachelor's degree,Remote,New York,Single,Full Time,97240,30/03/2021,25/05/2021,2,Voluntary,Better salary,0,1
+9468240687,Operations,Logistics,6480676187,0,0,Manager,Male,Hispanic,35,Bachelor's degree,On-site,Los Angeles,Single,Full Time,74133,07/10/2019,11/08/2020,10,Voluntary,Better salary,0,2
+8511109481,Software,QA,9734132771,0,0,Manager,Male,Asian,20,Bachelor's degree,On-site,Los Angeles,Single,Full Time,112026,03/04/2017,22/04/2018,13,Voluntary,Better salary,0,2
+1684900004,Sales,Sales Operations,8859939348,0,0,Manager,Male,Other,22,Bachelor's degree,Remote,Philadelphia,Single,Full Time,85875,01/01/2012,31/12/2014,36,Voluntary,Found a better opportunity,0,1
+7720861903,Operations,Supply Chain,559970810,0,0,Manager,Male,Hispanic,40,Master's degree,Remote,Charlotte,Single,Full Time,89924,25/09/2016,04/10/2018,25,Voluntary,Better salary,0,4
+5940596552,Software,Technical Support,7822223667,0,0,Manager,Male,Other,34,Bachelor's degree,On-site,Los Angeles,Married,Full Time,82016,09/07/2017,20/04/2019,22,Voluntary,Found a better opportunity,0,3
+7184840143,Product Development,Product Marketing,5232812171,0,0,Manager,Female,Asian,25,Bachelor's degree,Remote,Chicago,Married,Full Time,116313,03/12/2019,20/10/2020,11,Voluntary,Better salary,0,1
+9615798791,Administration,Executive Assistants,8857691489,0,0,Manager,Female,African American,33,Bachelor's degree,On-site,Los Angeles,Single,Full Time,63174,05/08/2016,10/05/2018,21,Voluntary,Found a better opportunity,0,3
+1708333730,Sales,Account Management,347221121,0,0,Manager,Male,Hispanic,35,Master's degree,On-site,Los Angeles,Single,Full Time,99371,24/06/2017,01/07/2018,12,Involuntary,Performance,0,2
+2456942087,Customer Service,Technical Support,6680584136,0,0,Manager,Female,Native American,33,Bachelor's degree,Remote,Austin,Married,Full Time,62389,10/05/2015,28/05/2017,25,Involuntary,Performance,0,2
+2551261670,Sales,Account Management,8913009291,0,0,Manager,Female,Asian,35,Bachelor's degree,On-site,San Francisco,Single,Full Time,100944,27/06/2017,06/05/2018,10,Voluntary,Better salary,0,3
+4279518319,Marketing,Marketing Research,5276190212,0,0,Manager,Male,Hispanic,33,Bachelor's degree,On-site,Los Angeles,Single,Full Time,79626,07/08/2015,14/08/2016,12,Voluntary,Found a better opportunity,0,4
+1922689328,Sales,Business Development,6897889572,0,0,Manager,Female,African American,25,Master's degree,On-site,Los Angeles,Single,Full Time,71414,09/12/2019,04/12/2021,24,Voluntary,Found a better opportunity,0,3
+3066448798,Product Development,Product Management,0,0,0,Director,Male,Native American,28,Bachelor's degree,Remote,San Francisco,Single,Full Time,100695,04/02/2015,16/02/2017,25,Involuntary,Termination for cause,0,2
+927119709,Software,Software Development,9734132771,0,0,Manager,Male,Asian,31,Bachelor's degree,Remote,Seattle,Married,Full Time,98587,10/07/2019,25/06/2020,12,Voluntary,More flexible benefits,0,4
+3634858392,Sales,Business Development,2342423041,0,0,Manager,Female,Asian,24,Associate's degree,On-site,Dallas,Single,Full Time,101326,17/03/2014,10/03/2015,12,Voluntary,Better salary,0,3
+8782514889,Marketing,Advertising,0,0,0,Director,Male,Other,37,Bachelor's degree,Remote,Philadelphia,Single,Full Time,111261,28/09/2017,10/07/2019,22,Involuntary,Company restructuring,0,1
+3257769326,Operations,Logistics,663543865,0,0,Manager,Male,Asian,30,Bachelor's degree,Remote,Boston,Single,Full Time,108902,30/09/2014,24/09/2016,24,Voluntary,Found a better opportunity,0,4
+7373287632,Operations,Supply Chain,2301262288,0,0,Manager,Male,Native American,32,Associate's degree,Remote,Denver,Single,Full Time,81500,19/10/2015,26/07/2016,9,Voluntary,Better salary,0,5
+364461630,HR,Training,776978900,0,0,Manager,Male,Asian,39,Bachelor's degree,Remote,Denver,Single,Full Time,86635,24/04/2016,23/02/2018,22,Voluntary,More flexible benefits,0,1
+2939972778,Software,Software Development,4520267703,0,0,Manager,Male,Native American,22,Bachelor's degree,Remote,San Antonio,Married,Full Time,109780,01/08/2016,26/08/2017,13,Involuntary,Company restructuring,0,2
+9184461082,Marketing,Marketing Research,0,0,0,Director,Male,Caucasian,31,Bachelor's degree,Remote,Charlotte,Single,Full Time,98731,15/10/2014,16/09/2016,23,Involuntary,Company restructuring,0,4
+1886190375,HR,Benefits,0,0,0,Director,Male,Caucasian,39,Master's degree,Remote,Indianapolis,Married,Full Time,84269,26/08/2019,26/07/2020,11,Voluntary,Found a better opportunity,0,1
+6843713751,Sales,Sales Operations,0,0,0,Director,Male,Caucasian,36,Master's degree,On-site,San Francisco,Single,Full Time,118424,30/01/2013,05/02/2014,12,Voluntary,More flexible benefits,0,2
+2840256578,Software,Technical Support,0,0,0,Director,Male,Caucasian,34,Bachelor's degree,Remote,Washington DC,Single,Full Time,115117,24/11/2012,22/10/2018,72,Voluntary,Better salary,0,5
+8855912597,R&D,Prototyping,0,0,0,Director,Male,Caucasian,26,Bachelor's degree,Remote,Philadelphia,Single,Full Time,100289,16/03/2016,02/01/2017,10,Involuntary,Company restructuring,0,3
+1471289107,Operations,Project Management,0,0,0,Director,Male,Caucasian,61,Bachelor's degree,Remote,San Antonio,Married,Full Time,96262,27/11/2019,06/10/2020,10,Voluntary,Found a better opportunity,0,3
+8879707249,Operations,Logistics,0,0,0,Director,Male,Caucasian,42,Bachelor's degree,Remote,Denver,Single,Full Time,93645,25/09/2018,15/09/2019,12,Involuntary,Performance,0,1
+6337292364,Customer Service,Account Management,0,0,0,Director,Male,Caucasian,25,Bachelor's degree,Remote,Charlotte,Single,Full Time,100367,05/04/2015,26/02/2016,11,Voluntary,More flexible benefits,0,2
+4923676007,Software,Technical Support,0,0,0,Director,Male,Caucasian,23,Bachelor's degree,Remote,New York,Single,Full Time,135460,17/06/2017,14/05/2019,23,Voluntary,More flexible benefits,0,3
+1979448050,Software,Technical Support,0,0,0,Director,Male,Caucasian,29,Master's degree,Remote,San Antonio,Married,Full Time,117187,18/08/2012,03/09/2014,25,Voluntary,Better salary,0,5
+3794691947,Marketing,Public Relations,0,0,0,Director,Male,Caucasian,24,Bachelor's degree,On-site,San Francisco,Married,Full Time,96864,24/06/2014,14/05/2015,11,Voluntary,Found a better opportunity,0,2
+2533515808,Finance,Auditing,0,0,0,Director,Male,Caucasian,24,Bachelor's degree,On-site,Los Angeles,Single,Full Time,93703,30/07/2015,05/08/2017,25,Voluntary,Better salary,0,2
+3157399422,HR,Training,0,0,0,Director,Male,Caucasian,42,Bachelor's degree,On-site,San Francisco,Married,Full Time,77728,28/08/2015,28/09/2016,13,Voluntary,Found a better opportunity,0,4
+9667595240,Software,QA,0,0,0,Director,Male,Caucasian,26,Bachelor's degree,Remote,Philadelphia,Married,Full Time,107384,13/02/2018,13/03/2020,25,Voluntary,More flexible benefits,0,4
+2273942875,Finance,Accounting,0,0,0,Director,Male,Caucasian,35,Bachelor's degree,Remote,Indianapolis,Single,Full Time,120680,26/09/2017,03/08/2019,23,Involuntary,Performance,0,1
+731994483,Sales,Account Management,0,0,0,Director,Male,Caucasian,39,Master's degree,Remote,Dallas,Single,Full Time,81655,22/06/2018,06/06/2020,24,Involuntary,Performance,0,1
+3384533678,Marketing,Public Relations,5276190212,0,0,Manager,Female,Caucasian,35,Bachelor's degree,Remote,Houston,Single,Full Time,101903,19/05/2018,24/04/2020,24,Voluntary,Found a better opportunity,0,2
+1855416469,Customer Service,Account Management,8780882161,0,0,Manager,Male,Caucasian,21,None,Remote,Chicago,Single,Full Time,69932,15/08/2016,09/09/2017,13,Voluntary,Better salary,0,4
+2217011606,Procurement,Supply Chain,2575449602,0,0,Manager,Female,Caucasian,24,Bachelor's degree,Remote,Jacksonville,Married,Full Time,69050,15/01/2021,24/10/2021,9,Voluntary,Better salary,0,3
+1654528589,Finance,Auditing,7250449451,0,0,Manager,Male,Caucasian,39,Bachelor's degree,Remote,San Francisco,Single,Full Time,99992,29/07/2015,04/08/2017,25,Involuntary,Performance,0,4
+4327223572,HR,Recruiting,7040762887,0,0,Manager,Male,Caucasian,27,Bachelor's degree,On-site,San Francisco,Single,Full Time,99112,03/10/2019,04/09/2020,11,Involuntary,Performance,0,5
+6860557986,Software,Software Development,3048449241,0,0,Manager,Female,Caucasian,33,Master's degree,Remote,Seattle,Married,Full Time,101163,15/04/2019,27/04/2021,25,Voluntary,Found a better opportunity,0,3
+1396655647,Sales,Sales Operations,5895467214,0,0,Manager,Female,Caucasian,44,Master's degree,Remote,Columbus,Single,Full Time,108287,21/02/2015,17/03/2016,13,Voluntary,Found a better opportunity,0,3
+3952850990,Operations,Project Management,2891488321,0,0,Manager,Male,Caucasian,42,Bachelor's degree,On-site,Dallas,Single,Full Time,92219,24/02/2015,16/02/2017,24,Involuntary,Performance,0,2
+4186577309,Finance,Accounting,3197062390,0,0,Manager,Male,Caucasian,38,Associate's degree,On-site,Los Angeles,Single,Full Time,94868,29/11/2016,17/10/2017,11,Voluntary,Better salary,0,4
+2727043124,Finance,Auditing,9477069684,0,0,Manager,Male,Caucasian,41,Bachelor's degree,On-site,San Francisco,Single,Full Time,117108,19/04/2015,30/03/2017,24,Involuntary,Budget cuts,0,4
+8061098038,Customer Service,Account Management,1051923928,0,0,Manager,Male,Caucasian,30,Bachelor's degree,Remote,San Jose,Single,Full Time,73144,25/09/2018,29/09/2020,24,Voluntary,Better salary,0,3
+9635576110,HR,Benefits,8645953426,0,0,Manager,Female,Caucasian,28,Bachelor's degree,Remote,San Antonio,Single,Full Time,80299,05/11/2012,07/08/2014,21,Voluntary,Found a better opportunity,0,2
+6702719636,Software,QA,5539617772,0,0,Manager,Male,Caucasian,26,Bachelor's degree,Remote,Chicago,Single,Full Time,104026,13/09/2020,16/01/2021,4,Involuntary,Performance,0,2
+3742150795,HR,Recruiting,6032514284,0,0,Manager,Female,Caucasian,23,Bachelor's degree,On-site,San Francisco,Single,Full Time,90767,02/01/2017,28/10/2017,10,Voluntary,Found a better opportunity,0,3
+8495320842,R&D,Product Design,9759719470,0,0,Manager,Female,Caucasian,57,Master's degree,Remote,Houston,Married,Full Time,88357,29/01/2015,15/12/2015,11,Voluntary,Better salary,0,3
+1689879796,Administration,Facilities,8857691489,0,0,Manager,Female,Caucasian,35,Bachelor's degree,Remote,San Francisco,Single,Full Time,81648,24/04/2020,02/07/2021,14,Involuntary,Termination for cause,0,4
+4620162861,Finance,Financial Planning,9477069684,0,0,Manager,Male,Caucasian,30,Bachelor's degree,Remote,Chicago,Single,Full Time,95259,23/03/2014,27/02/2016,24,Involuntary,Company restructuring,0,5
+8625421581,Operations,Logistics,2301262288,0,0,Manager,Female,Caucasian,36,Bachelor's degree,On-site,Dallas,Single,Full Time,105532,24/10/2013,29/10/2014,12,Involuntary,Performance,0,4
+5671500275,Finance,Financial Planning,588611735,0,0,Manager,Female,Caucasian,28,Bachelor's degree,Remote,Fort Worth,Married,Full Time,115522,31/08/2015,05/06/2016,9,Voluntary,Better salary,0,3
+5605765913,Software,QA,5044714263,0,0,Manager,Male,Caucasian,38,Bachelor's degree,Remote,Boston,Single,Contract,98712,15/05/2016,29/05/2018,25,Voluntary,Better salary,0,2
+1995937588,Legal,Intellectual Property,9185279819,0,0,Manager,Male,Caucasian,28,Master's degree,Remote,Charlotte,Single,Full Time,119219,04/10/2019,14/10/2020,13,Voluntary,Found a better opportunity,0,2
+9657914926,Sales,Business Development,6852381413,0,0,Manager,Male,Caucasian,20,Bachelor's degree,Remote,Houston,Married,Full Time,75812,07/11/2013,18/10/2015,24,Voluntary,Relocation,0,1
+5925343275,HR,Recruiting,776978900,0,0,Manager,Male,Caucasian,65,Bachelor's degree,Remote,Columbus,Married,Full Time,101110,13/10/2016,03/08/2018,22,Voluntary,More flexible benefits,0,4
+8291342703,Marketing,Public Relations,3903624224,0,0,Manager,Male,Caucasian,21,Bachelor's degree,On-site,San Francisco,Single,Full Time,114922,10/09/2014,16/06/2015,9,Voluntary,More flexible benefits,0,3
+5925692695,Operations,Project Management,559970810,0,0,Manager,Male,Caucasian,36,Bachelor's degree,Remote,Dallas,Single,Full Time,75980,25/08/2021,02/11/2021,2,Voluntary,More flexible benefits,0,5
+5936813207,Finance,Auditing,4820449671,0,0,Manager,Male,Caucasian,43,Master's degree,Remote,Phoenix,Single,Full Time,85034,14/01/2018,20/12/2019,24,Voluntary,Better salary,0,5
+9533356756,Software,Software Development,5044714263,0,0,Manager,Female,Caucasian,42,Bachelor's degree,Remote,Austin,Single,Full Time,92678,27/04/2017,10/02/2018,10,Voluntary,Better salary,0,5
+3495387506,Product Development,Product Marketing,296297700,0,0,Manager,Male,Caucasian,35,Bachelor's degree,Remote,San Antonio,Married,Full Time,92093,27/02/2018,25/02/2019,12,Voluntary,Better salary,0,2
+8667924069,HR,Benefits,7995036334,0,0,Manager,Male,Caucasian,29,Bachelor's degree,Remote,San Jose,Single,Full Time,80703,11/08/2013,30/05/2014,10,Voluntary,Better salary,0,1
+8418752764,HR,Benefits,6814563713,0,0,Manager,Male,Caucasian,65,Bachelor's degree,Remote,Philadelphia,Married,Full Time,94452,18/05/2016,14/06/2017,13,Voluntary,More flexible benefits,0,1
+1852520098,Sales,Business Development,6852381413,0,0,Manager,Male,Caucasian,32,Bachelor's degree,Remote,San Diego,Married,Full Time,91335,11/02/2021,22/04/2021,2,Voluntary,Better salary,0,5
+9542124633,Marketing,Advertising,1912934899,0,0,Manager,Male,Caucasian,37,Bachelor's degree,Remote,Seattle,Single,Full Time,113560,27/05/2018,09/04/2020,23,Involuntary,Performance,0,3
+5899851581,HR,Training,7995036334,0,0,Manager,Male,Caucasian,31,Bachelor's degree,Remote,Fort Worth,Married,Full Time,91238,28/06/2014,27/06/2016,24,Voluntary,Found a better opportunity,0,3
+7630623282,R&D,Prototyping,4188423400,0,0,Manager,Female,Caucasian,65,Bachelor's degree,On-site,Los Angeles,Married,Full Time,96663,14/03/2021,27/08/2021,6,Voluntary,Better salary,0,3
+3445915688,Software,Technical Support,3278616831,0,0,Manager,Female,Caucasian,27,Bachelor's degree,Remote,Denver,Single,Full Time,111807,12/03/2014,09/02/2016,23,Voluntary,Better salary,0,3
+5632683008,Administration,Executive Assistants,4191660438,0,0,Manager,Male,Caucasian,27,Bachelor's degree,Remote,San Francisco,Single,Full Time,71661,12/06/2017,19/04/2019,23,Voluntary,Better salary,0,3
+9473733605,Software,Technical Support,1696261601,0,0,Manager,Female,Caucasian,21,Bachelor's degree,Remote,Chicago,Single,Full Time,112020,17/04/2013,22/02/2015,23,Voluntary,Found a better opportunity,0,1
+2312225427,Sales,Business Development,1627659010,0,0,Manager,Female,Caucasian,23,Bachelor's degree,Remote,Indianapolis,Single,Full Time,78086,16/02/2018,05/03/2019,13,Voluntary,More flexible benefits,0,3
+1934623315,Sales,Business Development,1627659010,0,0,Manager,Female,Caucasian,29,Master's degree,Remote,Dallas,Married,Contract,81307,04/12/2021,20/01/2022,2,Involuntary,Performance,0,3
+4610556050,Sales,Business Development,1627659010,0,0,Manager,Male,Caucasian,24,Bachelor's degree,Remote,Denver,Single,Full Time,80167,03/12/2012,10/06/2015,31,Voluntary,Better salary,0,4
+4719019209,HR,Benefits,2509046989,0,0,Manager,Male,Caucasian,29,Bachelor's degree,On-site,San Francisco,Married,Full Time,94767,04/04/2021,21/07/2021,4,Voluntary,Found a better opportunity,0,2
+3547061429,Operations,Logistics,8202224131,0,0,Manager,Female,Caucasian,63,Bachelor's degree,Remote,Phoenix,Married,Full Time,90919,24/02/2014,19/02/2015,12,Voluntary,Relocation,0,1
+6341425114,Finance,Auditing,3197062390,0,0,Manager,Female,Caucasian,28,Bachelor's degree,On-site,Los Angeles,Single,Full Time,112085,03/06/2021,19/11/2021,6,Voluntary,Better salary,0,2
+384968262,Software,Software Development,14845113,0,0,Manager,Male,Caucasian,35,Bachelor's degree,Remote,Washington DC,Single,Full Time,120768,19/06/2021,04/09/2021,3,Voluntary,Found a better opportunity,0,1
+5755926753,Procurement,Supply Chain,2575449602,0,0,Manager,Male,Caucasian,43,Associate's degree,Remote,San Diego,Married,Full Time,67457,11/02/2017,28/02/2019,25,Voluntary,Found a better opportunity,0,1
+4579829287,Operations,Supply Chain,8202224131,0,0,Manager,Female,Caucasian,35,Bachelor's degree,Remote,Chicago,Single,Full Time,94057,03/09/2018,26/06/2019,10,Voluntary,Relocation,0,4
+2981356176,Customer Service,Technical Support,8519877319,0,0,Manager,Male,Caucasian,35,Bachelor's degree,Remote,Washington DC,Single,Full Time,87936,18/02/2019,18/01/2021,23,Voluntary,More flexible benefits,0,2
+3924362775,Product Development,Product Marketing,5232812171,0,0,Manager,Female,Caucasian,33,Bachelor's degree,Remote,Charlotte,Single,Full Time,108918,26/12/2019,15/11/2021,23,Involuntary,Company restructuring,0,5
+1787628196,Software,Software Development,5539617772,0,0,Manager,Male,Caucasian,33,Bachelor's degree,Remote,New York,Single,Full Time,92176,03/06/2017,14/05/2018,12,Voluntary,Better salary,0,4
+626984033,HR,Recruiting,6032514284,0,0,Manager,Male,Caucasian,42,Bachelor's degree,Remote,Columbus,Single,Full Time,79831,28/08/2017,12/09/2018,13,Voluntary,Better salary,0,4
+3263286216,Marketing,Marketing Research,4230864073,0,0,Manager,Male,Caucasian,38,Associate's degree,Remote,San Antonio,Single,Full Time,115720,29/12/2015,12/12/2019,48,Voluntary,More flexible benefits,0,4
+4897645085,Software,QA,2820765709,0,0,Manager,Female,Caucasian,36,Bachelor's degree,Remote,Phoenix,Single,Full Time,120510,09/07/2012,22/05/2013,11,Voluntary,Found a better opportunity,0,3
+241743225,R&D,Research,4188423400,0,0,Manager,Male,Caucasian,61,Bachelor's degree,On-site,Los Angeles,Married,Full Time,115973,19/08/2019,13/08/2021,24,Voluntary,More flexible benefits,0,2
+8629304618,R&D,Product Design,9759719470,0,0,Manager,Male,Caucasian,39,Master's degree,On-site,San Francisco,Single,Full Time,102858,21/08/2018,21/06/2020,22,Voluntary,More flexible benefits,0,5
+8717719123,Software,Software Development,5044714263,0,0,Manager,Male,Caucasian,39,Bachelor's degree,Remote,Seattle,Single,Full Time,120253,29/04/2018,31/01/2019,9,Voluntary,Better salary,0,5
+2376807827,HR,Recruiting,7995036334,0,0,Manager,Female,Caucasian,24,Bachelor's degree,Remote,Fort Worth,Single,Full Time,80770,20/07/2012,30/04/2014,22,Voluntary,Found a better opportunity,0,4
+809795736,Sales,Sales Operations,9072730468,0,0,Manager,Female,Caucasian,32,Bachelor's degree,On-site,San Francisco,Married,Full Time,96058,23/02/2021,19/10/2021,8,Voluntary,Better salary,0,2
+9423171643,Sales,Sales Operations,9761636372,0,0,Manager,Male,Caucasian,39,Bachelor's degree,Remote,Phoenix,Married,Full Time,102341,12/04/2013,23/04/2014,13,Voluntary,Career change,0,4
+4832331107,Operations,Project Management,4189721097,0,0,Manager,Female,Caucasian,36,Bachelor's degree,Remote,Dallas,Single,Full Time,105631,19/09/2021,31/10/2021,1,Voluntary,More flexible benefits,0,2
+1198097814,Software,Technical Support,2820765709,0,0,Manager,Male,Caucasian,45,Bachelor's degree,On-site,San Francisco,Married,Full Time,94279,12/07/2018,20/04/2019,9,Involuntary,Performance,0,5
+6918411576,Finance,Auditing,588611735,0,0,Manager,Female,Caucasian,30,Bachelor's degree,Remote,San Diego,Single,Full Time,86636,13/04/2017,11/04/2018,12,Involuntary,Performance,0,3
+2340409848,Software,QA,3393860506,0,0,Manager,Female,Caucasian,38,Bachelor's degree,Remote,Seattle,Single,Full Time,97962,24/06/2020,23/05/2021,11,Voluntary,Career change,0,4
+8565987964,Sales,Business Development,6897889572,0,0,Manager,Male,Caucasian,33,Bachelor's degree,Remote,New York,Single,Full Time,108875,01/08/2014,18/08/2015,13,Voluntary,Found a better opportunity,0,2
+8652137333,Software,Technical Support,2865338159,0,0,Manager,Male,Caucasian,38,Bachelor's degree,Remote,Boston,Single,Full Time,108653,28/08/2021,22/10/2021,2,Voluntary,More flexible benefits,0,3
+831221256,Finance,Accounting,4820449671,0,0,Manager,Male,Caucasian,23,Bachelor's degree,Remote,San Diego,Single,Full Time,94660,21/10/2015,23/10/2017,24,Voluntary,Better salary,0,2
+4130079295,Software,QA,3278616831,0,0,Manager,Female,Caucasian,26,Master's degree,Remote,San Diego,Single,Full Time,112462,02/12/2021,30/01/2022,2,Voluntary,Relocation,0,2
+5570942586,Finance,Auditing,9456183075,0,0,Manager,Female,Caucasian,25,Bachelor's degree,Remote,San Jose,Single,Full Time,111892,12/04/2016,06/12/2019,44,Involuntary,Budget cuts,0,2
+9972666237,Administration,Executive Assistants,4191660438,0,0,Manager,Female,Caucasian,29,Bachelor's degree,Remote,Phoenix,Single,Full Time,77106,23/06/2015,26/01/2017,19,Voluntary,More flexible benefits,0,4
+8798268520,Marketing,Marketing Research,5437575890,0,0,Manager,Female,Caucasian,32,Bachelor's degree,Remote,New York,Single,Full Time,96907,08/02/2012,30/11/2013,22,Voluntary,Personal reasons,0,2
+9988216804,Customer Service,Technical Support,8780882161,0,0,Manager,Male,Caucasian,36,Bachelor's degree,Remote,San Antonio,Single,Full Time,90006,01/07/2020,07/02/2021,7,Voluntary,Better salary,0,3
+1441280684,Software,Software Development,2865338159,0,0,Manager,Female,Caucasian,33,Bachelor's degree,Remote,San Diego,Single,Full Time,120217,19/03/2014,26/03/2015,12,Voluntary,Better salary,0,4

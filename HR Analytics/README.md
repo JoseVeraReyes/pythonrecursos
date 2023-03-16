@@ -13,7 +13,11 @@
 
 ![Picture1](https://user-images.githubusercontent.com/22597020/225591940-5151220a-c50c-4ca8-8fa1-0a082f9806fe.jpg)
 
-![Picture2](https://user-images.githubusercontent.com/22597020/225591988-4b7f4717-2fc4-4c52-b29a-9dd88501fe66.jpg)
+The following insights was derived from the query below:
+1. Software engineering has the highest headcount with 737 employees, 366.46% higher than R&D with 158 employees.
+2. Following software engineering, Sales and Marketing have the highest  employment levels, while R&D has the lowest employee count, with 158 employees.
+3. A significant portion of the organization's workforce is made up of software engineers, accounting for 18.52% of all employees.
+4. The number of employees varies across the 12 departments,  ranging from a minumum of 158 to maximum of 737.
 
 ![Picture8](https://user-images.githubusercontent.com/22597020/225592060-1c1891eb-b613-4316-9e41-71ca0435d52e.jpg)
 

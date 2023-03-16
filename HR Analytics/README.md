@@ -1,11 +1,20 @@
 
-    What is the size of the work force?
-    What is the current number of employed staff in each department?
-    Which month and year has shown the highest employment, and how does this pattern vary by department?
-    Which month and year does the organization have the highest resignation or termination, and how does this pattern vary by department?
-    Which staff has spent more than 10 years with the firm, and what is their current job level?
-    Who are the staff with more than or equal to 10 years of service?
-    In terms of departmental retention, how many staff have stayed above 10 years and how does this vary by department?
+    The data source for the analysis can be found within this Github repository. 
+    
+        The following data preprocessing was carried out for the data in this analysis: 
+    
+    ![JOINS(4)](https://user-images.githubusercontent.com/22597020/225596312-db4d2431-8906-4477-8724-4751d29d02df.png)
+
+
+        
+        The business question covered in this analysis:
+        What is the size of the work force?
+        What is the current number of employed staff in each department?
+        Which month and year has shown the highest employment, and how does this pattern vary by department?
+        Which month and year does the organization have the highest resignation or termination, and how does this pattern vary by department?
+        Which staff has spent more than 10 years with the firm, and what is their current job level?
+        Who are the staff with more than or equal to 10 years of service?
+        In terms of departmental retention, how many staff have stayed above 10 years and how does this vary by department?
 
 
 
@@ -35,10 +44,10 @@
 
 ![Picture15](https://user-images.githubusercontent.com/22597020/225592286-296183ff-9220-4cda-b6d9-3125685d58fa.jpg)
 
-The following insights was derived from the query below:
-1. A significant proportion of resignations - 35% of the total annual resignations occurred within the first quarter of the year.
-2. In comparison to pre-pandemic levels, employment has declined by 16% in recent years.
-3. January had the resignations at 89 staff, which is 56.14% higher than the lowest observed sum in November at 57.
+    The following insights was derived from the query below:
+    1. A significant proportion of resignations - 35% of the total annual resignations occurred within the first quarter of the year.
+    2. In comparison to pre-pandemic levels, employment has declined by 16% in recent years.
+    3. January had the resignations at 89 staff, which is 56.14% higher than the lowest observed sum in November at 57.
 
 ![Picture16](https://user-images.githubusercontent.com/22597020/225592315-17d33cb0-47a5-4041-a548-006f395dba23.jpg)
 
@@ -47,9 +56,9 @@ The following insights was derived from the query below:
 ![Picture18](https://user-images.githubusercontent.com/22597020/225592363-79db6923-838e-4448-9f30-def3487ee50a.jpg)
 
 
-The following insights was derived from the query below:
-1. The firm's longest tenured staff member has a maximum tenure of 11 years.
-2. Among staff members with over 10 years of service, software engineers constitute 18.93% of the total
+    The following insights was derived from the query below:
+    1. The firm's longest tenured staff member has a maximum tenure of 11 years.
+    2. Among staff members with over 10 years of service, software engineers constitute 18.93% of the total
 
 ![Picture19](https://user-images.githubusercontent.com/22597020/225592403-ba7686cc-c644-4913-be76-c312470b583e.jpg)
 

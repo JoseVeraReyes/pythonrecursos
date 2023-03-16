@@ -23,20 +23,15 @@ The following insights was derived from the query below:
 
 ![Picture9](https://user-images.githubusercontent.com/22597020/225592120-f9a661c7-5207-4b1f-8a8e-936901f8c318.jpg)
 
+![Picture10](https://user-images.githubusercontent.com/22597020/225592181-43201af5-fb08-471d-b49a-125e9eadbf6f.jpg)
+
 The following insights was derived from the query below:
 1. Most employment were carried out in July and the least in February, however the yearly distribution is even.
 2. July had the highest number of newly employed individuals at 425, 19.38% higher than February's 356.
 3. As of 2019, there were 520 newly employed individuals, 16.33% higher than the lowest number of 447 in 2021.
 4. Employment dropped by 16% from prepandemic level
 
-![Picture10](https://user-images.githubusercontent.com/22597020/225592181-43201af5-fb08-471d-b49a-125e9eadbf6f.jpg)
-
 ![Picture14](https://user-images.githubusercontent.com/22597020/225592245-5e92d71e-76c0-49f0-bd9b-74303f104466.jpg)
-
-The following insights was derived from the query below:
-1. A significant proportion of resignations - 35% of the total annual resignations occurred within the first quarter of the year.
-2. In comparison to pre-pandemic levels, employment has declined by 16% in recent years.
-3. January had the resignations at 89 staff, which is 56.14% higher than the lowest observed sum in November at 57.
 
 ![Picture15](https://user-images.githubusercontent.com/22597020/225592286-296183ff-9220-4cda-b6d9-3125685d58fa.jpg)
 

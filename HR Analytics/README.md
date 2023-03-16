@@ -1,7 +1,6 @@
-
-    The data source for the analysis can be found within this Github repository. 
+The data source for the analysis can be found within this Github repository. 
     
-        The following data preprocessing was carried out for the data in this analysis: 
+    The following data preprocessing was carried out for the data in this analysis: 
     
    ![JOINS(4)](https://user-images.githubusercontent.com/22597020/225596312-db4d2431-8906-4477-8724-4751d29d02df.png)
 

@@ -18,7 +18,9 @@ pharmacy_sales Table:
 Question 2
 
 Write a query to find out which manufacturer is associated with the drugs that were not profitable and how much money CVS lost on these drugs. 
-Output the manufacturer, number of drugs and total losses. Total losses should be in absolute value. Display the results with the highest losses on top.	
+Output the manufacturer, number of drugs and total losses. Total losses should be in absolute value. Display the results with the highest losses on top.
+
+  Insight: Johnson & Johnson's losses were the highest at $894,913.13 followed by Eli Lilly's $447,352.90 and Biogen's $417,018.89
 	
 Question 3
 

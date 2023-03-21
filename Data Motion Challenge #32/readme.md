@@ -14,6 +14,8 @@ You can find more information about other scenarios / use cases for windows func
 
 
 
-[Memorial Day (Flyer).pdf](https://github.com/idada29/All-SQL-Analysis/files/11027981/solutions.pdf)
+
+![JOINS(1)](https://user-images.githubusercontent.com/22597020/226600117-1437f7dd-4666-4891-a7b0-d6db25fe85b1.png)
 
 
+![JOINS(2)](https://user-images.githubusercontent.com/22597020/226600125-0b8cba1f-530d-4ca5-a4ed-338690f47e3c.png)

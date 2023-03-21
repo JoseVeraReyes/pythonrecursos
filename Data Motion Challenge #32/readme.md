@@ -2,6 +2,8 @@
 As a part of today's practice, here is what I did to solve both of the SQL questions from Data In Motion, LLC week 32:
 
 ➡ Simplified the table selection using CTEs.
+
+
 ➡ I used Dense_Rank since the question stated that "If two artists have the same number of appearances, they should have the same rank".
 
 You can find more information about other scenarios / use cases for windows functions used for ranking here: https://docs.aws.amazon.com/redshift/latest/dg/r_WF_DENSE_RANK.html

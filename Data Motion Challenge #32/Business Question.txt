@@ -1,1 +1,25 @@
+Question 1
+Assume there are three Spotify tables containing information about the artists, songs, and music charts. Write a query to determine the top 5 artists whose songs appear in the Top 10 of the global_song_rank table the highest number of times. From now on, we'll refer to this ranking number as "song appearances".
+
+Output the top 5 artist names in ascending order along with their song appearances ranking (not the number of song appearances, but the rank of who has the most appearances). The order of the rank should take precedence.
+
+For example, Ed Sheeran's songs appeared 5 times in Top 10 list of the global song rank table; this is the highest number of appearances, so he is ranked 1st. Bad Bunny's songs appeared in the list 4, so he comes in at a close 2nd.
+
+Assumptions:
+
+    If two artists' songs have the same number of appearances, the artists should have the same rank.
+    The rank number should be continuous (1, 2, 2, 3, 4, 5) and not skipped (1, 2, 2, 4, 5).
+    
+    
+Question 2
+New TikTok users sign up with their emails. They confirmed their signup by replying to the text confirmation to activate their accounts. Users may receive multiple text messages for account confirmation until they have confirmed their new account.
+
+Write a query to find the activation rate of the users. Round the percentage to 2 decimal places.
+
+Definitions:
+
+    emails table contain the information of user signup details.
+    texts table contains the users' activation information.
+
+As of 29 Nov 2022, the term confirmation rate is changed to activation rate to reflect the nature of the new user activation process.
 

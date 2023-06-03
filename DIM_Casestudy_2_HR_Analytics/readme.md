@@ -1,13 +1,14 @@
 
 
-# <p align="center" style="margin-top: 0px;">  **`The_Tiny_Shop`** 🏚️
+# <p align="center" style="margin-top: 0px;">  **`Human Resources Case Study`** 🏚️
  
   
   
-# <p align="center" style="margin-top: 0px;">  ![Tiny-Shop-Sales-600x600](https://github.com/idada29/The_Tiny_Shop/assets/22597020/8ddaea04-1e46-4d07-a712-bb6acc962560)
+# <p align="center" style="margin-top: 0px;">  ![Kedeishas-Banking-Services-1-1-600x600](https://github.com/idada29/All-SQL-Analysis/assets/22597020/781dccdc-90dc-465d-b588-26df3a4f95e9)
+
  
 ---
-This repository hosts the solutions to the Weekly SQL case study by Data In Motion. [Click here to view the full challenge](https://d-i-motion.com/lessons/customer-orders-analysis/)
+This repository hosts the solutions to the Weekly SQL case study by Data In Motion. [Click here to view the full challenge](https://d-i-motion.com/lessons/kedeishas-banking-services/)
   
 This case study originally uses PostgreSQL however the solution was done using SQL server (Personal choice). To successfully answer all the questions you should have been exposed to the following areas of SQL:
 

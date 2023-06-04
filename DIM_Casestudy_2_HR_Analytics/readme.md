@@ -12,8 +12,7 @@ This repository hosts the solutions to the Weekly SQL case study by Data In Moti
   
 This case study originally uses PostgreSQL however the solution was done using SQL server (Personal choice). To successfully answer all the questions you should have been exposed to the following areas of SQL:
 
-- Basic aggregations
-- CASE WHEN statements
+- Aggregation
 - Window Functions
 - Joins
 - Date time functions
